@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         bilibili wiki扩宽
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Zach8777/Biliwiki-Widener
 // @version      0.1
 // @description  Widen the main component of Bilibili Wiki for high resolution screens.
 // @author       Zach8777
